@@ -10,7 +10,7 @@ State Manager -> Used an interface called IState to define state actions. There 
   RunningState -> User can give inputs to player and player is moving by these inputs.
   SurfingState -> Drifting phase after colliding with another player. During this state user can't give inputs. Player is only drifting according to collide forces.
   
-I used State Manager architecture for these 2 states but its slightly big for this kind of small scale game. Reason is that NoSurrender creates casual games and in big scale games, State Manager has a big role. So I did it to show that I can build such systems.
+I used State Manager architecture for these 2 states but its slightly big for this kind of small scale game. Reason is that NoSurrender creates casual games and in big scale games State Manager has a big role. So I did it to show that I can build such systems.
 
 
 https://youtube.com/shorts/caA4dZAkBJY?feature=share
