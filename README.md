@@ -1,4 +1,4 @@
-# NoSurrenderCase
+# Sumo.io Clone
 
 Input -> I used Unity New Input System. Touch for mobile. Enabled Enhanced Touch to use it from windows too.
 
